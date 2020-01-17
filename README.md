@@ -1,4 +1,4 @@
-# OpenCV-C-Simple-Example
+# OpenCV C++ Simple Example
 Load and display a single .jpg image file with OpenCV in C++
 
 In order to compile your OpenCV project, make sure that you have you oi.cpp file inside the folder.
@@ -19,3 +19,6 @@ Now, run the following in the terminal:
 	make
 
 	./out mustang.jpg
+
+You should see something like this:
+
