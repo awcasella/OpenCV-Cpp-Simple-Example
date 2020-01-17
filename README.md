@@ -23,3 +23,7 @@ Now, run the following in the terminal:
 You should see something like this:
 
 ![](Screenshot%20from%202020-01-16%2023-48-44.png)
+
+# Referência
+
+Using OpenCV with gcc and CMake. Disponível em: https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html
