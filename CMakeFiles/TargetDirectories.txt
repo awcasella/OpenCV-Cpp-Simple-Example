@@ -1,0 +1,3 @@
+/home/ayrton/Documents/cppCodes/OpenCVTest/CMakeFiles/rebuild_cache.dir
+/home/ayrton/Documents/cppCodes/OpenCVTest/CMakeFiles/out.dir
+/home/ayrton/Documents/cppCodes/OpenCVTest/CMakeFiles/edit_cache.dir

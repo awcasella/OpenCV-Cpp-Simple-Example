@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( OpenCVTest )
+find_package( OpenCV REQUIRED )
+include_directories( /home/usuario/OpenCV/build )
+add_executable( out DisplayImage.cpp )
+target_link_libraries( out ${OpenCV_LIBS} )
