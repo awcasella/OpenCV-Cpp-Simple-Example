@@ -22,3 +22,4 @@ Now, run the following in the terminal:
 
 You should see something like this:
 
+![](Screenshot%20from%202020-01-16%2023-48-44.png)
