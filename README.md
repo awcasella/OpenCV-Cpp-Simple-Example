@@ -14,11 +14,11 @@ Make sure you have the "CMakeLists.txt" file set this way:
 
 Now, run the following in the terminal:
 
-	cmake .
+	$ cmake .
 
-	make
+	$ make
 
-	./out mustang.jpg
+	$ ./out mustang.jpg
 
 You should see something like this:
 
